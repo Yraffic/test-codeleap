@@ -1,12 +1,16 @@
 .home{
   height: 100%;
   width: 50rem;
+
   background-color: #ffff;
 
-  overflow: hidden;
+  overflow-y: auto;
 }
 
 .home-content{
   width: 100%;
+
   padding: 1.5rem;
+
+  gap: 1.5rem;
 }
